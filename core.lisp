@@ -8,8 +8,10 @@
 	   charge
 	   molar-mass
 	   chemistry-thing
+	   chemistry-thing-to-string
 	   solution
 	   solutes
+	   solute
 	   volume
 	   with-solutes
 	   solve

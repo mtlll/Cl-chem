@@ -6,6 +6,11 @@
 	:core)
   (:export acid
 	   base
+	   strong-p
+	   constant
+	   conjugate-base
+	   make-acid
+	   make-base
 	   defacid
 	   defbase
 	   ph))
