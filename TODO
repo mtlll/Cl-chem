@@ -1,0 +1,11 @@
+TODO list for organic chemistry code:
+
+make a general representation of carbon chains/hydrocarbons []
+     make a representation of the single carbon atoms in the chain and connect them to eachother* []
+     support double and triple bonds and make this automatically limit the amount of possible bonds to the carbon atom []
+make a representation of functional groups []
+create an abstraction for defining said groups []
+use it to define common functional groups []
+make a representation of organic acids []
+
+*may be generalised later to support chains of other atoms such as Si.
